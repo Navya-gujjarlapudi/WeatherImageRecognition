@@ -34,6 +34,10 @@ Member4 Email: npwmx@umsystem.edu
 
 6. We have used gradio libraries for integrating GUI (https://gradio.app/image_classification_in_tensorflow/)
 7. The below image displays the predicated output of the given image.
-![image](https://user-images.githubusercontent.com/98193330/167321429-deb24141-066a-4ad0-ba06-72a0398042f7.png)
+![image](https://user-images.githubusercontent.com/98193330/167321574-ae3191f5-3454-4990-a19f-7928531b9496.png)
+
+
+The application is hosted on the gradio provided servers which will expire in 72 hours. We will be updating the link before the presentation if expired.
+Application hoseted at: https://42777.gradio.app/
 
 
