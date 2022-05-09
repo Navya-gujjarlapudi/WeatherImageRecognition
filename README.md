@@ -18,6 +18,9 @@ Member4 Name: Nikhileshwar Reddy Papagiri
 
 Member4 Email: npwmx@umsystem.edu
 
+
+**Video Link:**  https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=578756e7-dc00-4b4a-af37-ae90004c485c
+
 **Project Highlights:**
 
 1. In this project,we have built a convolutional neural network(CNN) model on a database containing 6862 images of 11 different weather conditions to  classify the image into its correct weather phenomena.
