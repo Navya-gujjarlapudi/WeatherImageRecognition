@@ -38,6 +38,6 @@ Member4 Email: npwmx@umsystem.edu
 
 
 The application is hosted on the gradio provided servers which will expire in 72 hours. We will be updating the link before the presentation if expired.
-Application hoseted at: https://42777.gradio.app/
+Application hosted at: https://42777.gradio.app/
 
 
